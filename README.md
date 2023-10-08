@@ -35,7 +35,8 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/ritik-jaiswal-997214210/" class="element"><img src="linkedin.svg" height="40"></a>
+![Alt text](./linkedin.svg)
+<a href="https://www.linkedin.com/in/ritik-jaiswal-997214210/" class="element"><img src="./linkedin.svg" height="40"></a>
 <a href="https://twitter.com/Ritikj713" class="element"><img src="twitter.svg" height="40"></a>
 <a href="https://www.linkedin.com/in/ritik-jaiswal-997214210/" class="element"><img src="facebook.svg" height="40"></a>
 <a href="https://github.com/Ritikj8090" class="element"><img src="github.svg" height="40"></a>
