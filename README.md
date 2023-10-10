@@ -1,10 +1,12 @@
 # <p align="center">Hi,👋 my name is RiTik Jaiswal</p>
+<div align="center" >
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+</div>
+
 #### <p align="center">a passionate software developer with a strong background in full stack development. Welcome to my project's README file, where you'll find information about me and the projects I'm working on.</p>
+
+<img src="https://i.pinimg.com/originals/69/ee/f5/69eef5b3ee7d2ee975d7f4274427364e.png">
 <p align="center"><a href="">🔗Portofoli</a></p>
-
-
-<img src="https://i.pinimg.com/originals/2c/6f/cd/2c6fcd0bf73eada1d996f7045e412ef9.png">
-
 
 ## Visitor Count:
   [![](https://visitcount.itsvg.in/api?id=Ritikj8090&icon=8&color=6)](https://visitcount.itsvg.in)
@@ -23,23 +25,17 @@
 
 - ⚡ **Fun fact:** I'm an avid traveler and have a goal to visit at least one new country every year. Exploring new cultures and cuisines around the world is as exhilarating to me as writing code. 🌍✈️
 
-<style>
-  .element {
-    margin-left: 20px;
-    margin-right: 20px;
-  }
-</style>
-
  ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritikj713) 
 
 
 ## 🌐 Socials:
-
+<div>
 <a href="https://www.linkedin.com/in/ritik-jaiswal-997214210/" class="element"><img src="https://svgshare.com/i/yM6.svg" height="40"></a>
-<a href="https://twitter.com/Ritikj713" class="element"><img src="https://svgshare.com/i/yMq.svg" height="40"></a>
+<a href="https://twitter.com/Ritikj713" class="element"><img src="https://svgshare.com/i/yMq.svg" height="40" margin-right="20px"></a>
 <a href="https://www.linkedin.com/in/ritik-jaiswal-997214210/" class="element"><img src="https://svgshare.com/i/yNZ.svg" height="40"></a>
 <a href="https://github.com/Ritikj8090" class="element"><img src="https://svgshare.com/i/yP9.svg" height="40"></a>
+</div>
 
 ## 👨‍💻 Codings:
 <a href="https://codeforces.com/profile/ritikj713" class="element"><img src="https://svgshare.com/i/yNi.svg" height="40"></a>
