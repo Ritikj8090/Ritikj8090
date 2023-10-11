@@ -6,7 +6,7 @@
 #### <p align="center">a passionate software developer with a strong background in full stack development. Welcome to my project's README file, where you'll find information about me and the projects I'm working on.</p>
 
 <img src="https://i.pinimg.com/originals/69/ee/f5/69eef5b3ee7d2ee975d7f4274427364e.png">
-<p align="center"><a href="https://portfoliov2-tawny.vercel.app/">🔗Portofoli</a></p>
+<p align="center"><a href="https://portfoliov2-tawny.vercel.app/" target='blank'>🔗Portofoli</a></p>
 
 ## Visitor Count:
   [![](https://visitcount.itsvg.in/api?id=Ritikj8090&icon=8&color=6)](https://visitcount.itsvg.in)
