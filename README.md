@@ -82,5 +82,5 @@ Thank you for visiting my README file, and I hope you find my projects and contr
 
 
 
-![snake gif](https://github.com/Ritikj8090/Ritikj8090/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ritikj8090/Ritikj8090/blob/output/github-contribution-grid-snake.svg)
 
