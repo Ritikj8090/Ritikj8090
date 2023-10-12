@@ -72,15 +72,10 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/Ritikj8090/Ritikj8090/blob/output/github-contribution-grid-snake.svg)
 
 ## Let's Build Together
 
 I'm excited about the endless possibilities in the world of software development, and I'm looking forward to creating innovative solutions and collaborating with fellow developers. If you have a project idea or just want to chat about code, don't hesitate to get in touch. Let's build something amazing together! 🚀
 
 Thank you for visiting my README file, and I hope you find my projects and contributions inspiring and valuable. Happy coding! 👨‍💻✨
-
-
-
-
-![snake gif](https://github.com/Ritikj8090/Ritikj8090/blob/output/github-contribution-grid-snake.svg)
-
