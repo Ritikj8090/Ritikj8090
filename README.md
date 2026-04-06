@@ -74,6 +74,8 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://raw.githubusercontent.com/Ritikj8090/Ritikj8090/22bdcb345e4559bbcd63a2bbe7fcda4a11d1e2b3/snake-contribution-animation%20(4).svg)
+
 ![snake gif](https://github.com/Ritikj8090/Ritikj8090/blob/output/github-contribution-grid-snake.gif)
 
 ## Let's Build Together
